@@ -12,9 +12,9 @@ Sou um estudante de desenvolvimento full stack e um entusiasta do mundo tecnoló
 
 ### 🌟 Destaques
 
-- ✨ [QuizMaster]: Um quiz online interativo que abrange várias categorias.
-  - 📁 [Repositório]: https://github.com/DeveloperMayconS/QuizGamer.git.
-  - 📝 [Demonstração]: https://developermaycons.github.io/QuizGamer/.
+  - ✨ [QuizMaster]: Um quiz online interativo que abrange várias categorias.
+  - 📁 [Repositório]: https://github.com/DevMayconSilva/QuizMaster.
+  - 📝 [Demonstração]: https://devmayconsilva.github.io/QuizMaster/.
 
 ### 📫 Fale comigo
 
@@ -23,7 +23,7 @@ Sou um estudante de desenvolvimento full stack e um entusiasta do mundo tecnoló
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeveloperMayconS&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevMayconSilva&show_icons=true&theme=radical)
 
 <!-- ### 🏆 Conquistas
 
@@ -47,9 +47,9 @@ Se você gosta do meu trabalho e deseja apoiar, considere comprar um café para 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?logo=buy-me-a-coffee&logoColor=white)](inserir_link_para_comprar_um_café) -->
 
-### 📝 Licença
+<!-- ### 📝 Licença
 
-Este perfil é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este perfil é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para obter mais detalhes. -->
 
 ---
 
